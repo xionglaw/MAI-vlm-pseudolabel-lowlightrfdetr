@@ -1,0 +1,15 @@
+# Office / OS temp files
+~$*
+~WRL*.tmp
+desktop.ini
+Thumbs.db
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large artefacts live on Google Drive, not in this repo
+*.pt
+*.pth
+*.ckpt
+*.zip
